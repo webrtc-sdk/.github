@@ -1,4 +1,2 @@
-## Hi there 👋
-
-###
+## .github
 Organization Description
