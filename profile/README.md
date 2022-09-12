@@ -17,3 +17,7 @@ This is not a hard-fork. We periodically sync back to WebRTC releases and reappl
 ## Releases
 
 We will publish pre-compiled binary SDKs for [iOS](https://github.com/webrtc-sdk/Specs) and [Android](https://github.com/webrtc-sdk/android). Refer to these repos for installation instructions.
+
+## Changes
+
+For a list of changes, please refer to [webrtc/README](https://github.com/webrtc-sdk/webrtc/blob/m104_release/README.md)
